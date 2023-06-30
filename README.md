@@ -24,12 +24,12 @@ Create some tool required for this project.
 
 
 
-# 👥 Contributer
+## 👥 Contributer
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
 
 
 
-# 🤝 Acknowledgments
+## 🤝 Acknowledgments
 
 I would like to express our gratitude to the following individuals and organizations for their contributions and support in making this project possible:
 
@@ -39,5 +39,8 @@ I am thankful for their valuable input, feedback, and assistance throughout the 
 
 
 
-# Support
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/gordonhei25)
+## 💪 Support
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gordonhei25)
+
+
+Give a ⭐️ if this project helped you!
