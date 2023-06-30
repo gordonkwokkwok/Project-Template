@@ -7,27 +7,19 @@ Add a Image
 ## 📚 Introduction
 Create a introduction for this project.
 
-
 ## 🎯 Objective
 Create some objectives for this project.
-
-
 
 ## 🔧 Tool
 - Git (Version: 2.23.0)
 Create some tool required for this project.
 
-
 ## 🌐 Dataset
 - [Link](https) ; or
 - [Download Here](https)
 
-
-
 ## 👥 Contributer
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
-
-
 
 ## 🤝 Acknowledgments
 
@@ -37,10 +29,7 @@ I would like to express our gratitude to the following individuals and organizat
 
 I am thankful for their valuable input, feedback, and assistance throughout the development process. Their expertise and dedication have greatly enhanced the quality and functionality of this project.
 
-
-
 ## 💪 Support
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gordonhei25)
-
 
 Give a ⭐️ if this project helped you!
