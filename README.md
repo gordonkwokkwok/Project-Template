@@ -1,4 +1,4 @@
-# ⭐️ README-template
+# ⭐️ README-Template
 
 <p align="center">
 Add a Image
