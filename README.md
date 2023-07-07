@@ -11,8 +11,28 @@ Write an introduction for this project.
 Write some objectives for this project.
 
 ## 🔧 Tool
+- Python (Version: 3.9.6)
 - Git (Version: 2.23.0)
-Write some tool required for this project.
+
+Use following command to check version
+```
+python --version
+git --version
+```
+
+### 📖 Library
+Use following command to install the following libraries:
+```
+pip3 install numpy
+pip3 install pandas
+pip3 install matplotlib
+```
+
+## Command to run the project:
+```
+conda activate xxxEnv
+jupyter notebook
+```
 
 ## 🌐 Dataset
 - [Link](https) ; or
