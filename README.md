@@ -10,7 +10,10 @@ Write an introduction for this project.
 ## 🎯 Objective
 Write some objectives for this project.
 
-## 🔧 Tool
+## 📋 Prerequisite
+Creating a virtual environment is recommended for projects, and either venv or conda can be used based on personal preference. After creating the virtual environment, it is necessary to activate it before installing any required libraries. This project created a virtual environment called "xxxEnv"
+
+### 🔧 Tool
 - Python (Version: 3.9.6)
 - Git (Version: 2.23.0)
 
@@ -28,7 +31,7 @@ pip3 install pandas
 pip3 install matplotlib
 ```
 
-## Command to run the project:
+## ⚙️ Command to run the project:
 ```
 conda activate xxxEnv
 jupyter notebook
